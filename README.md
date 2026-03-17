@@ -1,10 +1,24 @@
 
-# Hi, I'm Lorenzo
-
-Data Scientist with 7+ years of experience building end-to-end machine learning products, from business requirements and stakeholder alignment to production deployment and model maintenance.  
-I currently work on **Credit and Fraud Monitoring** at Mollie, with a focus on risk detection and loss prevention.
-
-[LinkedIn](https://www.linkedin.com/in/lorenzo-vitali/) • [GitHub](https://github.com/93lorenzo)
+<table>
+  <tr>
+    <td align="center" valign="middle" width="220">
+      <img src="images/Profile_pic.jpeg" alt="Lorenzo Vitali" 
+      style="width: 200px; height: 200px; border-radius: 50%;"/>
+    </td>
+    <td valign="middle">
+      <h1>Hi, I'm Lorenzo 👋</h1>
+      <p>
+        Data Scientist with <strong>7+ years of experience</strong> building end-to-end machine learning products,
+        from business requirements and stakeholder alignment to production deployment and model maintenance.<br/>
+        I currently work on <strong>Credit and Fraud Monitoring</strong> at Mollie, with a focus on risk detection and loss prevention.
+      </p>
+      <p>
+        <a href="https://www.linkedin.com/in/lorenzo-vitali/">LinkedIn</a> •
+        <a href="https://github.com/93lorenzo">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
