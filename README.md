@@ -5,8 +5,7 @@
       <img
         src="images/Profile_pic.jpeg"
         alt="Lorenzo Vitali"
-        width="190"
-        style="display: block; width: 100%; max-width: 190px; height: auto; border-radius: 18px;"
+        style="display: block; width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%;"
       />
     </td>
     <td valign="top">
@@ -94,6 +93,7 @@
 I enjoy sharing practical lessons from production ML, team leadership, and risk modeling.
 
 - **How to prevent frauds in a fintech : static vs dynamic signals** - [Watch Youtube Video (in Italian)](https://www.youtube.com/live/moPIBeNZWew?t=19827s)
+- **Data science stuff I wish I knew sooner** - [GitHub Repository](https://github.com/93lorenzo/data_science_stuff_I_wish_I_knew_sooner) where I write data science related articles.
 
 ---
 
