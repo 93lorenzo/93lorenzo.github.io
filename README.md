@@ -1,14 +1,11 @@
 
 <table>
   <tr>
-    <td align="center" valign="top" width="240">
-      <img
-        src="images/Profile_pic.jpeg"
-        alt="Lorenzo Vitali"
-        style="display: block; width: 180px; height: 180px; object-fit: cover; object-position: center top; border-radius: 50%;"
-      />
+    <td align="center" valign="middle" width="220" style="vertical-align: middle; text-align: center;">
+      <img src="images/Profile_pic.jpeg" alt="Lorenzo Vitali" 
+      style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;"/>
     </td>
-    <td valign="top">
+    <td valign="middle">
       <h1>Hi, I'm Lorenzo 👋</h1>
       <p>
         Data Scientist with <strong>7+ years of experience</strong> building end-to-end machine learning products,
@@ -30,6 +27,8 @@
 - I work at the intersection of **machine learning, product thinking, and business impact**.
 - I have experience in both **individual contributor** and **lead** roles.
 - Core areas: fraud/risk modeling, predictive analytics
+
+
 ---
 
 ## Work Experience
