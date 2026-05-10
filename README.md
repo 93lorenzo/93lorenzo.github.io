@@ -1,11 +1,15 @@
 
 <table>
   <tr>
-    <td align="center" valign="middle" width="220">
-      <img src="images/Profile_pic.jpeg" alt="Lorenzo Vitali" 
-      style="width: 200px; height: 200px; border-radius: 50%;"/>
+    <td align="center" valign="top" width="240">
+      <img
+        src="images/Profile_pic.jpeg"
+        alt="Lorenzo Vitali"
+        width="190"
+        style="display: block; width: 100%; max-width: 190px; height: auto; border-radius: 18px;"
+      />
     </td>
-    <td valign="middle">
+    <td valign="top">
       <h1>Hi, I'm Lorenzo 👋</h1>
       <p>
         Data Scientist with <strong>7+ years of experience</strong> building end-to-end machine learning products,
