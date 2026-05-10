@@ -89,11 +89,11 @@
 
 I enjoy sharing practical lessons from production ML, team leadership, and risk modeling.
 
-- **How to prevent frauds in a fintech : static vs dynamic signals ** - [Watch Youtube Video (in Italian)](https://www.youtube.com/live/moPIBeNZWew?t=19827s)
+- **How to prevent frauds in a fintech : static vs dynamic signals** - [Watch Youtube Video (in Italian)](https://www.youtube.com/live/moPIBeNZWew?t=19827s)
 
 ---
 
 ## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/lorenzo-vitali/
-- GitHub: https://github.com/93lorenzo
+  <a href="https://www.linkedin.com/in/lorenzo-vitali/">LinkedIn</a> •
+  <a href="https://github.com/93lorenzo">GitHub</a>
