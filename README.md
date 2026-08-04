@@ -2,8 +2,8 @@
 <table>
   <tr>
     <td align="center" valign="middle" width="220" style="vertical-align: middle; text-align: center;">
-      <img src="images/Profile_pic.jpeg" alt="Lorenzo Vitali" 
-      style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;"/>
+      <img src="images/Profile_pic_square.jpeg" alt="Lorenzo Vitali" width="150" height="150"
+      style="border-radius: 50%; object-fit: cover; display: block; margin: 0 auto;"/>
     </td>
     <td valign="middle">
       <h1>Hi, I'm Lorenzo 👋</h1>
