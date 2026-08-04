@@ -93,6 +93,7 @@ I enjoy sharing practical lessons from production ML, team leadership, and risk 
 
 - **How to prevent frauds in a fintech : static vs dynamic signals** - [Watch Youtube Video (in Italian)](https://www.youtube.com/live/moPIBeNZWew?t=19827s)
 - **Data science stuff I wish I knew sooner** - [GitHub Repository](https://github.com/93lorenzo/data_science_stuff_I_wish_I_knew_sooner) where I write data science related articles.
+- **Medium Articles** [Lorenzo Medium Page](https://medium.com/@93lorenzo)
 
 ---
 
